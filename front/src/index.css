@@ -1,0 +1,19 @@
+.confirmm {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+.gaps {
+  padding: 5px
+}
